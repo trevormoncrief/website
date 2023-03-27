@@ -5,7 +5,7 @@
 body {
   margin: 0;
   font-family: 'Lato', sans-serif;
-  background-image: url('background.jpg'); /* Replace with the name of your background image */
+  background-image: url('background.png'); /* Replace with the name of your background image */
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
